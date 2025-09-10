@@ -22,6 +22,10 @@ Este é um script simples em Python para verificar a conectividade de endereços
 3.  Execute o script:
     `python verificador.py`
 
+### Exemplo de Saída
+
+![Captura de tela do terminal mostrando o resultado do script](saida.png)    
+
 ## Licença
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
