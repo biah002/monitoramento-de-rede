@@ -1,15 +1,15 @@
 # Monitoramento de Rede
 
-## 💻 Descrição do Projeto
+## Descrição do Projeto
 
 Este é um script simples em Python para verificar a conectividade de endereços IP ou domínios. O projeto envia requisições de ping para uma lista de hosts e retorna se eles estão online ou offline, exibindo detalhes sobre o tempo de resposta e o resultado da operação.
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3**
 * **Biblioteca `subprocess`**
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Pré-requisitos
 * É necessário ter o **Python 3** instalado na sua máquina.
@@ -22,7 +22,7 @@ Este é um script simples em Python para verificar a conectividade de endereços
 3.  Execute o script:
     `python verificador.py`
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
